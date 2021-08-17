@@ -1,0 +1,13 @@
+{
+    "name": "threejs-bug",
+    "type": "module",
+    "scripts": {
+        "start": "npm install && node server.js",
+        "install": "node setupWorkspace.js"
+    },
+    "author": "Degubi",
+    "dependencies": {
+        "three": "0.131.3",
+        "express": "4.17.1"
+    }
+}
